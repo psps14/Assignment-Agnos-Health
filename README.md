@@ -1,4 +1,4 @@
----Assignment - Manual Testing (reforto Assignment-Agnos.xlxs)---
+---Assignment - Manual Testing (refer to Assignment-Agnos.xlxs)---
 1. Test Plan
  - The test plans are located in the 'Test Plan - Velocity' tab and the 'Test Plan - Timeline' tab.
 
